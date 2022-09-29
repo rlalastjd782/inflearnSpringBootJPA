@@ -1,4 +1,4 @@
-# inflearnSpringBootJPA
+# Inflearn SpringBoot JPA 회원가입 프로젝트
 
 - 인프런 무료강의 소스코드
     - AOP 전까지 완료
